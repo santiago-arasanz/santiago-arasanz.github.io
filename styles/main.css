@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+  max-width: 50em;
+  /*margin: 0 auto;*/
+  margin: 30px 30px 60px 30px;
+}
+
+header{
+  font-family: fantasy;
+  font-size: xxx-large;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.main-image {
+  object-fit: cover;
+  /*width: 100%;
+  height: 250px;*/
+  max-width: 100%;
+  height: auto;
+
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1080px;
+}
+
+.titles{
+  font-size: x-large;
+  margin: 25px;
+  text-align: center;
+}
+
+.main-text {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.unknown-word{
+  font-style: italic;
+
+}
+
+.list-links {
+  margin-top: 15px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+li {
+  font-weight: 800;
+}
+
+a {
+  color:#3E4E50
+}
+
+.footer {
+  position: fixed;
+  bottom: 5px;
+  left: 0;
+  text-align: center;
+  font-weight: bold;
+  width: 100%;
+  height: 2em;
+  background-color: #3E4E50;
+  padding: 1em;
+    
+}
+
+.image-techblog {
+  display: block;
+  margin: 25px auto;
+  /*margin: 25px;*/
+  padding: 25px 25px 25px 25px;
+  border-style: double;
+}
+
+
+
+
+
+
+
+
+
+
+
