@@ -51,7 +51,7 @@ header{
 }
 
 .underline {
-  text-decoration: underline;
+  text-decoration-style: solid;
 }
 
 ul {
