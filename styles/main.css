@@ -35,6 +35,7 @@ header{
   font-size: x-large;
   margin: 25px;
   text-align: center;
+  text-decoration: underline;
 }
 
 .main-text {
