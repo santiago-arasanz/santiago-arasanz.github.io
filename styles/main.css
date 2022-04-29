@@ -67,7 +67,7 @@ a {
 }
 
 .footer {
-  position: fixed;
+  /*position: fixed;*/
   bottom: 5px;
   left: 0;
   text-align: center;
@@ -76,6 +76,7 @@ a {
   height: 2em;
   background-color: #3E4E50;
   padding: 1em;
+  margin-top: 20px;
     
 }
 
