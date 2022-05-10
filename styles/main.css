@@ -87,6 +87,8 @@ a {
   /*margin: 25px;*/
   padding: 25px 25px 25px 25px;
   border-style: double;
+  width: 100%;
+  height: auto;
 }
 
 /* -------Classes of JavaScript's Blog -----------*/
